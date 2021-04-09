@@ -4,8 +4,13 @@
 
    ```python
    pip3 install virtualenv
+   export WORKON_HOME=~/Envs
+   mkdir -p $WORKON_HOME
+   source /usr/local/bin/virtualenvwrapper.sh
    mkvirtualenv pandora --python=python3.7
    ```
+
+   note: user can create any other type virutal environment.
 
 2. change to virtual pandora env
 
