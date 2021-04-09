@@ -1,0 +1,20 @@
+[
+  {
+    "type": "fruits",
+    "names": [
+      "strawberry",
+      "banana",
+      "orange",
+      "apple"
+    ]
+  },
+  {
+    "type": "vegetables",
+    "names": [
+      "beetroot",
+      "carrot",
+      "celery",
+      "cucumber"
+    ]
+  }
+]
